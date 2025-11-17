@@ -28,17 +28,21 @@
 ## 🛠️ Skills & Technologies
 
 ### 🚀 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><!-- PYTHON -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100"><!-- C -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><!-- JS -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100"><!-- HTML -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100"><!-- CSS -->
 
 ### 🧩 Frameworks & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><!-- react -->
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100"><!-- bootstrap -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100"><!-- mongo -->
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100"><!-- anglur js-->
+
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
 ---
@@ -52,21 +56,18 @@
 ---
 
 ## 📫 Connect with Me
-[![Devfolio](https://img.shields.io/badge/Devfolio-nithish2405-000?style=flat&logo=dev.to&logoColor=white)](https://devfolio.co/@nithish2405)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NITHISH%20S-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-s-396b39281/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@nithish._.24-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nithish._.24/)  
-[![X](https://img.shields.io/badge/X-@Nithish2424-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Nithish2424)
+  <a href="https://www.instagram.com/nithish._.24/">
+   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+</a>
+<a href="https://x.com/Nithish2424">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+</a>
+<a href="https://www.linkedin.com/in/nithish-s-396b39281/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a> 
 
----
+[![Devfolio](https://img.shields.io/badge/Devfolio-nithish2405-000?style=flat&logo=dev.to&logoColor=white)](https://devfolio.co/@nithish2405)
 
-## ✨ Unique Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nithish-2005/nithish-2005/main/banner.gif" alt="animated banner" width="90%">
-</p>
-
-
-
----
 
 ## 📊 GitHub Stats
 
